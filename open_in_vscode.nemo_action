@@ -1,0 +1,8 @@
+ [Nemo Action]
+
+ Name=Open in VS Code
+ Comment=Refresh the current folder
+ Exec=code "%F"
+ Icon-Name=visual-studio-code
+ Selection=any
+ Extensions=dir;
